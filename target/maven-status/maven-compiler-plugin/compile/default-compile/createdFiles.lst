@@ -1,0 +1,6 @@
+com/springdemo/mvc/Student.class
+com/springdemo/mvc/HomeController.class
+com/springdemo/mvc/SillyController.class
+com/springdemo/mvc/HelloWorldController.class
+com/springdemo/mvc/StudentController.class
+com/springdemo/config/DemoAppConfig.class
